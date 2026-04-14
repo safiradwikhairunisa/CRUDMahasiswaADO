@@ -1,0 +1,10 @@
+C:\KULYEH\Semester 4\Pengembangan Aplikasi Basis Data\Pertemuan 6\CRUDMahasiswaADO\CRUDMahasiswaADO\bin\Debug\CRUDMahasiswaADO.exe.config
+C:\KULYEH\Semester 4\Pengembangan Aplikasi Basis Data\Pertemuan 6\CRUDMahasiswaADO\CRUDMahasiswaADO\bin\Debug\CRUDMahasiswaADO.exe
+C:\KULYEH\Semester 4\Pengembangan Aplikasi Basis Data\Pertemuan 6\CRUDMahasiswaADO\CRUDMahasiswaADO\bin\Debug\CRUDMahasiswaADO.pdb
+C:\KULYEH\Semester 4\Pengembangan Aplikasi Basis Data\Pertemuan 6\CRUDMahasiswaADO\CRUDMahasiswaADO\obj\Debug\CRUDMahasiswaADO.csproj.AssemblyReference.cache
+C:\KULYEH\Semester 4\Pengembangan Aplikasi Basis Data\Pertemuan 6\CRUDMahasiswaADO\CRUDMahasiswaADO\obj\Debug\CRUDMahasiswaADO.Form1.resources
+C:\KULYEH\Semester 4\Pengembangan Aplikasi Basis Data\Pertemuan 6\CRUDMahasiswaADO\CRUDMahasiswaADO\obj\Debug\CRUDMahasiswaADO.Properties.Resources.resources
+C:\KULYEH\Semester 4\Pengembangan Aplikasi Basis Data\Pertemuan 6\CRUDMahasiswaADO\CRUDMahasiswaADO\obj\Debug\CRUDMahasiswaADO.csproj.GenerateResource.cache
+C:\KULYEH\Semester 4\Pengembangan Aplikasi Basis Data\Pertemuan 6\CRUDMahasiswaADO\CRUDMahasiswaADO\obj\Debug\CRUDMahasiswaADO.csproj.CoreCompileInputs.cache
+C:\KULYEH\Semester 4\Pengembangan Aplikasi Basis Data\Pertemuan 6\CRUDMahasiswaADO\CRUDMahasiswaADO\obj\Debug\CRUDMahasiswaADO.exe
+C:\KULYEH\Semester 4\Pengembangan Aplikasi Basis Data\Pertemuan 6\CRUDMahasiswaADO\CRUDMahasiswaADO\obj\Debug\CRUDMahasiswaADO.pdb
